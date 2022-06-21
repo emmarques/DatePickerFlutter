@@ -1,16 +1,10 @@
-# my_app
+# Date Picker
 
-A new Flutter project.
+So I tried to make a date picker with the worst UI design that I saw. This is a start to learn flutter
 
-## Getting Started
+## Example
 
-This project is a starting point for a Flutter application.
+This is how it goes: 
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/41199577/174695114-4efe072b-dd05-4b19-b109-b7693343444f.mov
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
